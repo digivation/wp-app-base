@@ -1,6 +1,6 @@
 # Digivation's WordPress Skeleton + WP-Stack Mod
 
-This is a fork+merge of Mark Jaquith's WordPress Skeleton and WP-Stack projects. Seeing as how Mark's projects have not been updated lately, I have taken his baseline, combined the projects, and made a few modifications. I recently deployed a site running WP v3.8 and this modified skeleton, so things should work properly for modern installs. Please note, my deployments have been WP single-site, with no memcached, running Nginx + PHP-FPM + APC. The plugins under mu-plugins will need to be enabled for Nginx (uncomment the lines as needed).
+This is a fork+merge of Mark Jaquith's [WordPress Skeleton](https://github.com/markjaquith/WordPress-Skeleton) and [WP-Stack](https://github.com/markjaquith/WP-Stack) projects. Seeing as how Mark's projects have not been updated lately, I have taken his baseline, combined the projects, and made a few modifications. I recently deployed a site running WP v3.8 and this modified skeleton, so things should work properly for modern installs. Please note, my deployments have been WP single-site, with no memcached, running Nginx + PHP-FPM + APC. The plugins under mu-plugins will need to be enabled for Nginx (uncomment the lines as needed).
 
 This project REQUIRES v2.x of Capistrano - will not work on v3.x (yet) - I wasted a few hours learning this.
 
