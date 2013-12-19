@@ -1,6 +1,4 @@
 [submodule "wp"]
 	path = wp
-	url = git://github.com/WordPress/WordPress.git
-[submodule "THEMENAME"]
-	path = content/themes/THEMENAME
-	url = GITPATH
+	url = https://github.com/WordPress/WordPress.git
+
